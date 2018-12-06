@@ -34,7 +34,9 @@ The primary role of the grad student is to develop the topic, identify the readi
 
 ### Topic 3: Presentation
 
-(Grad): You will present your topic for the class based on your original draft, as well as any feedback provided to you by your partner and from me. You will also lead the discussion on the topic. In total, this should run about one hour. You can expect that the students will have read the topic webpage as well as the reading that you have provided in advance of the class.
+(Grad): You will present your topic for the class based on your original draft, as well as any feedback provided to you by your partner and from me. You will also lead the discussion on the topic. In total, this should run about one hour. You can expect that the students will have read the topic webpage as well as the reading that you have provided in advance of the class. A good way to seed this discussion is through a set of discussion questions.
+
+(UGrad): Your job is to be the lead discussant during the discussion. This means that you will be ready to respond to each question posed by the leader of the discussion.
 
 (Grad): Once you have completed your presentation, you will write a short half-page reflection essay on your presentation. Here, you will consider what elements of your presentation went well, and how you could have improved the presentation -- both the deck itself, and in your delivery of the material. Consider here also how you went about leading the discussion, and how this could have been improved as well.
 
@@ -70,3 +72,8 @@ For other topics, you should be prepared to lead the class through a discussion 
 	* Personal information systems
 	* Visual effects / video processing
 
+## A Note
+
+You can propose your own topic. One way to do this is to explore proceedings of conferences like the [International Symposium on Mixed and Augmented Reality](https://dblp.org/db/conf/ismar/index), or the [SIGCHI Conference on Human-Computer Interaction (CHI)](https://dblp.uni-trier.de/db/conf/chi/), or the [User Interface Software and Technology conferences](https://dblp.uni-trier.de/db/conf/uist/).
+
+If you'd like to do this, please propose two readings from these conferences that you'd like to explore.
