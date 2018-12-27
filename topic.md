@@ -1,10 +1,10 @@
 # Topics
 
-In a pair, you will develop a discussion on a topic of your choice, where you will prepare a web-based handout, identify readings, and an in-class presentation on the chosen topic. As a pair, you will generally be made up of one grad student and one undergrad student. These pairings should be distinct from the project teams. The primary learning objective here is to develop both a depth of understanding in a specific area relating to mixed reality experience design, and articulating that understanding in a way that is appropriate for an audience of your peers.
+In a pair, you will develop a discussion on a topic of your choice, where you will prepare a web-based handout, identify readings, and an in-class presentation on the chosen topic. Each pair will generally be made up of one grad student and one undergrad student. These pairings should be distinct from the project teams. The primary learning objective here is to develop both a depth of understanding in a specific area relating to mixed reality experience design, and to articulate that understanding in a way that is appropriate for an audience of your peers.
 
 ## Responsibilities
 
-The primary role of the grad student is to develop the topic, identify the readings, and to prepare the presentation. The role of the undergrad student is to help develop the topic idea, and then to provide formal feedback to the grad student on the suitability of the topic materials, as well as to identify opportunities for improving the materials. As the grad student, you may consult with the undergrad student more than the prescribed structure; however, understand as the undergrad, you are only _required_ to provide the feedback as prescribed.
+The primary role of the grad student is to identify the readings, develop the topic, and to prepare the presentation. The role of the undergrad student is to help develop the topic idea, and then to provide formal feedback to the grad student on the suitability of the topic materials, as well as to identify opportunities for improving the materials. As the grad student, you may consult with the undergrad student more than the prescribed structure; however, understand as the undergrad, you are only _required_ to provide the feedback as prescribed.
 
 ## Components
 
