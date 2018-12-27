@@ -7,6 +7,7 @@
 [Assessment]()
 
  * [Components](components.md)
+ * [Participation](participation.md)
  * [Assignments](assignments.md)
  * [Topic](topic.md)
  * [Project](project.md)
