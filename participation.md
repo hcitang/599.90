@@ -4,7 +4,7 @@ A large component of your assessment is based on your thoughtful participation i
 
 Each week, a new set of readings will be posted to the Slack (probably the Friday before the following meeting). You are responsible for reading these, and responding to these readings in at least one written paragraph. These are **due the following Thursday at noon.**
 
-During the discussion, I expect you to contribute to the conversation at least once. (Note: I know this is hard for introverts, which is why you have a week to prepare your thoughts in written form.)
+Note: During the discussion, I also expect you to contribute to the conversation at least once. (I know this is hard for introverts, which is why you have a week to prepare your thoughts in written form.)
 
 In both cases, you may build off of, or respond to others' contributions, or simply strike it out on your own.
 
@@ -24,6 +24,7 @@ At any time, I am happy to provide you with verbal feedback if you'd like more c
 ## Grad Students
 
 The week before your assigned presentation day:
+
 1. Create a new numbered topic channel (e.g. #1-ARinMuseums)
 2. Post a link to your topic webpage
 3. Post the reading you have chosen for the class
@@ -34,6 +35,7 @@ The week before your assigned presentation day:
 A good response is novel (i.e. presents a new idea), and is written clearly (i.e. others can understand what you mean).
 
 It is hard to provide a prescription for doing this, since it varies based on the reading itself. What I am asking you to do is to really *think* about what is in the writing, and then *reflect* on it. For example:
+
 * What does the reading mean to you? 
 * What does it make you think of?
 * Do you agree with what the authors are saying? Do you disagree? Why? 
