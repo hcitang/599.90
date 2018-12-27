@@ -9,7 +9,7 @@ Recent innovations in mobile computing technologies, including computing power, 
 This course is run as a 2-2: two hours in the lab for hands-on training with development and project time, and two hours for discussion and presentations about mixed reality topics.
 
 ## Office Hours
-* Fridays, 3:00-4:00 (MS680B), and
+* Fridays, 2:45-4:00 (MS680B), and
 * By request
 
 ## Communication
