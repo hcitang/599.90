@@ -14,7 +14,7 @@ This course is run as a 2-2: two hours in the lab for hands-on training with dev
 
 ## Communication
 
-We will use Slack for communication in this course. Please [join the slack](http://cpscmixedreal-8e84362.slack.com), as we will use this as a way to post readings, share findings, etc. as we go. (Use your @ucalgary.ca email address to sign up.)
+We will use Slack for communication in this course. Please [join](https://join.slack.com/t/cpscmixedreal-8e84362/signup) [our class slack channel](http://cpscmixedreal-8e84362.slack.com), as we will use this as a way to post readings, share findings, etc. as we go. (Use your @ucalgary.ca email address to sign up.)
 
 ## Tentative Schedule
 
