@@ -76,4 +76,4 @@ For other topics, you should be prepared to lead the class through a discussion 
 
 You can propose your own topic. One way to do this is to explore proceedings of conferences like the [International Symposium on Mixed and Augmented Reality](https://dblp.org/db/conf/ismar/index), or the [SIGCHI Conference on Human-Computer Interaction (CHI)](https://dblp.uni-trier.de/db/conf/chi/), or the [User Interface Software and Technology conferences](https://dblp.uni-trier.de/db/conf/uist/).
 
-If you'd like to do this, please propose two readings from these conferences that you'd like to explore.
+If you'd like to do this, please propose five readings from these conferences that you'd like to explore.
