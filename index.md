@@ -22,6 +22,60 @@ We will use Slack for communication in this course. Please [join](https://join.s
     * Lab: No lab
     * Discussion: Project pitches by companies and organizations, Introduction
 
+* Week of Jan 14
+	* Lab: Intro to Unity
+	* Discussion: AR Show & Tell; AR Fundamentals
+	* Deliverables: P0; T1
+
+* Week of Jan 21
+	* Lab: Tablet & Phone-based AR
+	* Discussion: Project mini-presentations: What we learned
+	* Discussion: UX of Augmented Reality
+
+* Week of Jan 28
+	* Lab: Prototyping AR experiences with paper
+	* Project: Proposal presentations
+	* Discussion: Embodied Interaction Techniques
+	* Deliverables: P1, A1
+
+* Week of Feb 4
+	* Lab: Head-Mounted AR (HoloLens)
+	* Discussion: Sensing Infrastructures for MR
+
+* Week of Feb 11
+	* Lab: Gesture and Voice Sensing
+	* Discussion: Evaluating Mixed Reality Experiences
+	* Deliverables: T2-Grads
+
+* Week of Feb 18
+	* No class (reading week)
+
+* Week of Feb 25
+	* Discussion: Project progress reports and critiques
+	* Deliverables: A2, P2
+
+* Week of Mar 4
+	* Discussion: Society and Mixed Reality
+	* Deliverables: T2-ugrads
+
+* Week of Mar 11
+	* Discussion: Grad Topics
+
+* Week of Mar 18
+	* Discussion: Grad Topics
+
+* Week of Mar 25
+	* Discussion: Grad Topics
+
+* Week of Apr 1
+	* Discussion: Grad Topics
+
+* Week of Apr 8
+	* Discussion: Project - Demos
+	* Deliverable: P3
+
+* Monday, Apr 15: Department Showcase
+
 ## Tentative Due Dates
 
 All components are due by end-of-day Friday.
