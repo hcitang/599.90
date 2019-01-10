@@ -30,6 +30,7 @@ The proposal should provide a clear picture of who the client is, what you are p
 You will develop and give a five-minute presentation (PPT) based on your proposal.
 
 Criteria for evaluation on this component:
+
 * How clear is the goal of the project?
 * How clear is the outcome of the project from a user experience perspective? (illustrated via the sketches/prototypes)
 * How has the team engaged with the client, to what extent have they sought to provide feedback, and is it clear how they will make use of that feedback?
@@ -45,6 +46,7 @@ This report should provide a clear understanding of the expected user experience
 You will develop and give a ten-minute presentation (PPT) based on your progress, and engage in a constructive critique session with your fellow classmates.
 
 Criteria for evaluation on this component:
+
 * How clear is the goal of the project?
 * How clear is the outcome of the project from a user experience perspective? (illustrated via the sketches/prototypes)
 * How has the team engaged with the client, to what extent have they sought to provide feedback, and is it clear how they will make use of that feedback?
