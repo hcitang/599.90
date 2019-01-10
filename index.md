@@ -22,3 +22,23 @@ We will use Slack for communication in this course. Please [join](https://join.s
     * Lab: No lab
     * Discussion: Project pitches by companies and organizations, Introduction
 
+## Tentative Due Dates
+
+All components are due by end-of-day Friday.
+
+* Assignments
+	* A1: Feb 1
+	* A2: Mar 1
+	* A3: Mar 29
+
+* Topic
+	* T1: Jan 18
+	* T2-grads: Feb 15
+	* T2-ugrads: Mar 8
+
+* Project
+	* P0: Jan 18
+	* P1: Feb 1
+	* P2: Mar 1
+	* P3: Apr 12 / Showcase: Apr 15
+
