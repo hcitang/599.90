@@ -59,16 +59,20 @@ We will use Slack for communication in this course. Please [join](https://join.s
 	* Deliverables: T2-ugrads
 
 * Week of Mar 11
-	* Discussion: Grad Topics
+	* Discussion: AR Collaboration (Terrance, Bryan and Max)
+	* Discussion: AR and Art (Kath, Eric and Hadiya)
 
 * Week of Mar 18
-	* Discussion: Grad Topics
+	* Discussion: AR in Museums (Michael and Eve)
+	* Discussion: AR Gaming (Bruna, Munib)
 
 * Week of Mar 25
-	* Discussion: Grad Topics
+	* Discussion: MR and Children's Education (Roberta, Muhannad)
+	* Discussion: AR Collaborative Learning (Tarishi and Michaela)
 
 * Week of Apr 1
-	* Discussion: Grad Topics
+	* Discussion: VR/AR in Health and Medical Education (Arthur, Jacky, Alec)
+	* Discussion: Immersive Tech and Data Science (Zahra and Brandon)
 
 * Week of Apr 8
 	* Discussion: Project - Demos
