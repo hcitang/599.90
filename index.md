@@ -33,13 +33,13 @@ We will use Slack for communication in this course. Please [join](https://join.s
 	* Discussion: UX of Augmented Reality
 
 * Week of Jan 28
-	* Lab: Prototyping AR experiences with paper
+	* Lab: Tablet & Phone-based AR (cont)
 	* Project: Proposal presentations
 	* Discussion: Embodied Interaction Techniques
 	* Deliverables: P1, A1
 
 * Week of Feb 4
-	* Lab: Head-Mounted AR (HoloLens)
+	* Lab: Prototyping AR experiences with paper
 	* Discussion: Sensing Infrastructures for MR
 
 * Week of Feb 11
@@ -51,6 +51,7 @@ We will use Slack for communication in this course. Please [join](https://join.s
 	* No class (reading week)
 
 * Week of Feb 25
+	* Lab: Head-Mounted AR (HoloLens)
 	* Discussion: Project progress reports and critiques
 	* Deliverables: A2, P2
 
