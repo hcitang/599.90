@@ -22,10 +22,10 @@ To submit, simply send an email to your TA with a link to your github repo for t
 _(due Fri, Feb 1 EOD)_
 
 Using Unity3D and EasyAR (or another AR tool if you prefer), create a simple augmented reality application.
-* Download a character from the Asset Store (or, if you’re feeling ambitious, try creating your own!)
-* Recognize elements of the physical environment in your application (this can be either image targets or the environment itself)
-* Program your character to move between at least three points in the scene.
-* Trigger an exciting event when the character reaches its final point!
+	* Download a character from the Asset Store (or, if you’re feeling ambitious, try creating your own!)
+	* Recognize elements of the physical environment in your application (this can be either image targets or the environment itself)
+	* Program your character to move between at least three points in the scene.
+	* Trigger an exciting event when the character reaches its final point!
 
 ## Assignment 2: AR Embodied Hello World 
 
