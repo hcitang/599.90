@@ -28,6 +28,8 @@ Using Unity3D and EasyAR (or another AR tool if you prefer), create a simple aug
 * Program your character to move between at least three points in the scene.
 * Trigger an exciting event when the character reaches its final point!
 
+When submitting, please include a README.txt file with instructions describing how to make your project work, as well as any image targets that you use.
+
 ## Assignment 2: AR Embodied Hello World 
 
 (due Fri, Mar 1 EOD)
