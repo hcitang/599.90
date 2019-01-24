@@ -31,12 +31,22 @@ We will use Slack for communication in this course. Please [join](https://join.s
 	* Lab: Tablet & Phone-based AR
 	* Discussion: Project mini-presentations: What we learned
 	* Discussion: UX of Augmented Reality
+	* Readings:
+		* Li, A. and Fessenden, T. (2016). [Augmented Reality: What does it mean for UX?](https://www.nngroup.com/articles/augmented-reality-ux/). NN Group.
+		* Nielsen, J. (1993). [Noncommand User Interfaces](https://www.nngroup.com/articles/noncommand/). NN Group. 
 
 * Week of Jan 28
 	* Lab: Tablet & Phone-based AR (cont)
 	* Project: Proposal presentations
 	* Discussion: Embodied Interaction Techniques
 	* Deliverables: P1, A1
+	* Readings:
+		* Jacob, J. K., et al. (2008). [Reality-based interaction: a framework for post-WIMP interfaces](https://dl.acm.org/citation.cfm?id=1357089). CHI 2008.
+		* _One of:_
+			* Porcheron, M., et al. (2018). [Voice Interfaces in Everyday Life](https://dl.acm.org/citation.cfm?id=3174214). CHI 2018.
+			* Jain, M., et al. (2018). [Evaluating and Informing the Design of Chatbots](https://dl.acm.org/author_page.cfm?id=99659200344). DIS 2018.
+		* Skim: Purington, A. (2017). ["Alexa is my new BFF": Social Roles, User Satisfaction, and Personification of the Amazon Echo](https://dl.acm.org/citation.cfm?id=3053246). CHI EA 2017.
+	* To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, etc. ([instructions here](https://library.ucalgary.ca/c.php?g=255563&p=1704031))
 
 * Week of Feb 4
 	* Lab: Prototyping AR experiences with paper
