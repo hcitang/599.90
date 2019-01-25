@@ -39,7 +39,7 @@ We will use Slack for communication in this course. Please [join](https://join.s
 	* Lab: Tablet & Phone-based AR (cont)
 	* Project: Proposal presentations
 	* Discussion: Embodied Interaction Techniques
-	* Deliverables: P1, A1
+	* Deliverables: P1
 	* Readings:
 		* Jacob, J. K., et al. (2008). [Reality-based interaction: a framework for post-WIMP interfaces](https://dl.acm.org/citation.cfm?id=1357089). CHI 2008.
 		* _One of:_
@@ -51,6 +51,7 @@ We will use Slack for communication in this course. Please [join](https://join.s
 * Week of Feb 4
 	* Lab: Prototyping AR experiences with paper
 	* Discussion: Sensing Infrastructures for MR
+	* Deliverables: A1 on Wed Feb 6, noon
 
 * Week of Feb 11
 	* Lab: Gesture and Voice Sensing
@@ -96,9 +97,8 @@ We will use Slack for communication in this course. Please [join](https://join.s
 All components are due by end-of-day Friday.
 
 * Assignments
-	* A1: Feb 1
+	* A1: Feb 6, noon
 	* A2: Mar 1
-	* A3: Mar 29
 
 * Topic
 	* T1: Jan 18
