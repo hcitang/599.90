@@ -96,7 +96,7 @@ We will use Slack for communication in this course. Please [join](https://join.s
 All components are due by end-of-day Friday.
 
 * Assignments
-	* A1: Feb 1
+	* A1: ~Feb 1~ Updated: Feb 6 (noon)
 	* A2: Mar 1
 	* A3: Mar 29
 
