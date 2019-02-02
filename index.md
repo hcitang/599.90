@@ -52,6 +52,10 @@ We will use Slack for communication in this course. Please [join](https://join.s
 	* Lab: Prototyping AR experiences with paper
 	* Discussion: Sensing Infrastructures for MR
 	* Deliverables: A1 on Wed Feb 6, noon
+	* Readings:
+		* Hirokazu Kato and Mark Billinghurst. (1999). [Marker Tracking and HMD Calibration for a Video-Based Augmented Reality Conferencing System](https://vs.inf.ethz.ch/edu/SS2005/DS/papers/ar/kato-artoolkit.pdf). In IWAR '99.
+		* [Understanding ARKit Tracking and Detection](https://developer.apple.com/videos/play/wwdc2018/610/) WWDC 2018 video. (60 min)
+		* [ARKit vs ARCore - The Key Differences](https://www.newgenapps.com/blog/arkit-vs-arcore-the-key-differences)
 
 * Week of Feb 11
 	* Lab: Gesture and Voice Sensing
