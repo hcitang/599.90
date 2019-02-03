@@ -44,7 +44,7 @@ We will use Slack for communication in this course. Please [join](https://join.s
 		* Jacob, J. K., et al. (2008). [Reality-based interaction: a framework for post-WIMP interfaces](https://dl.acm.org/citation.cfm?id=1357089). CHI 2008.
 		* _One of:_
 			* Porcheron, M., et al. (2018). [Voice Interfaces in Everyday Life](https://dl.acm.org/citation.cfm?id=3174214). CHI 2018.
-			* Jain, M., et al. (2018). [Evaluating and Informing the Design of Chatbots](https://dl.acm.org/author_page.cfm?id=99659200344). DIS 2018.
+			* Jain, M., et al. (2018). [Evaluating and Informing the Design of Chatbots](https://dl.acm.org/citation.cfm?id=3196735). DIS 2018.
 		* Skim: Purington, A. (2017). ["Alexa is my new BFF": Social Roles, User Satisfaction, and Personification of the Amazon Echo](https://dl.acm.org/citation.cfm?id=3053246). CHI EA 2017.
 	* To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, etc. ([instructions here](https://library.ucalgary.ca/c.php?g=255563&p=1704031))
 
@@ -101,7 +101,7 @@ We will use Slack for communication in this course. Please [join](https://join.s
 All components are due by end-of-day Friday.
 
 * Assignments
-	* A1: Feb 6, noon
+	* A1: ~Feb 1~ Updated: Feb 6 (noon)
 	* A2: Mar 1
 
 * Topic
