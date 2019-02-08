@@ -61,6 +61,9 @@ We will use Slack for communication in this course. Please [join](https://join.s
 	* Lab: Gesture and Voice Sensing
 	* Discussion: Evaluating Mixed Reality Experiences
 	* Deliverables: T2-Grads
+	* Readings:
+		* Gun A. Lee et al. (2018). [A User Study on MR Remote Collaboration Using Live 360 Video](https://ieeexplore.ieee.org/document/8613761). In ISMAR 2018.
+		* Areti Damala et al. (2008). [Bridging the gap between the digital and the physical: design and evaluation of a mobile augmented reality guide for the museum visit](https://doi.org/10.1145/1413634.1413660). In DIMEA '08.
 
 * Week of Feb 18
 	* No class (reading week)
