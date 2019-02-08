@@ -63,7 +63,7 @@ We will use Slack for communication in this course. Please [join](https://join.s
 	* Deliverables: T2-Grads
 	* Readings:
 		* Gun A. Lee et al. (2018). [A User Study on MR Remote Collaboration Using Live 360 Video](https://ieeexplore.ieee.org/document/8613761). In ISMAR 2018.
-		* Areti Damala et al. (2008). [Bridging the gap between the digital and the physical: design and evaluation of a mobile augmented reality guide for the museum visit](https://doi.org/10.1145/1413634.1413660). In DIMEA '08.
+		* Christina Pollalis et al. (2018). [Evaluating Learning with Tangible and Virtual Representations of Archaeological Artifacts](https://doi.org/10.1145/3173225.3173260). In TEI 2018.
 
 * Week of Feb 18
 	* No class (reading week)
