@@ -76,6 +76,12 @@ We will use Slack for communication in this course. Please [join](https://join.s
 * Week of Mar 4
 	* Discussion: Society and Mixed Reality
 	* Deliverables: T2-ugrads
+	* Readings:
+		* Tony Liao and Lee Humphreys. (2014). [Layar-ed places: Using mobile augmented reality to tactically reengage, reproduce, and reappropriate public space](https://journals.sagepub.com/doi/10.1177/1461444814527734). new media & society 17 (9), 1418–1435.
+		* Optional: 
+			* Ken Perlin. (2016). [Future Reality: How Emerging Technologies Will Change Language Itself](https://www.computer.org/csdl/mags/cg/2016/03/mcg2016030084.html). In IEEE Computer Graphics 36 (3). [local pdf](https://pages.cpsc.ucalgary.ca/~tonyt/tmp/Ken%20Perlin%20-%20Future%20Reality.pdf)
+			* Yu -Lien Chang, Huei-Tse Hou, Chao-Yang Pan, Yao-Ting Sung and Kuo-En Chang. (2015). [Apply an Augmented Reality in a Mobile Guidance to Increase Sense of Place for Heritage Places](https://www.jstor.org/stable/jeductechsoci.18.2.166). Journal of Educational Technology & Society 18 (2), 166-178. [pdf](https://pdfs.semanticscholar.org/004a/963b6de5d0fbd56b078c220dd8757f8a79ce.pdf)
+			* Paul Hyman. (2013). [Augmented-reality glasses bring cloud security into sharp focus](https://dl.acm.org/citation.cfm?id=2461264). Communications of the ACM 56 (6), 18-20.
 
 * Week of Mar 11
 	* Discussion: AR Collaboration (Terrance, Bryan and Max)
