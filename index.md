@@ -84,23 +84,20 @@ We will use Slack for communication in this course. Please [join](https://join.s
 
 * Week of Mar 11
 	* Discussion: [AR Collaboration](http://terrancemok.com/ar-remote-embodiment) (Terrance, Bryan and Max)
-	* Discussion: [Spectacle and Wonder in AR Art](https://sites.google.com/glass-slipper.net/kb-topic-2-cpsc-mixed-reality/home) (Kath, Eric and Hadiya)
-	* Readings:
 		* Thammanthip Piumsomboon et al. (2018). [Mini-Me: An Adaptive Avatar for Mixed Reality Remote Collaboration](https://dl.acm.org/citation.cfm?doid=3173574.3173620). CHI 2018, Paper 46. [pdf](http://www.cpsc.ucalgary.ca/~tonyt/tmp/piumsomboon.pdf)
-		* Sang-won Leigh. 2015. [Remnance of Form: Interactive Narratives through Unexpected Behaviors of a Shadow](https://doi.org/10.1145/2702613.2725434). CHI EA ’15: 387–390. [pdf](http://www.cpsc.ucalgary.ca/~tonyt/tmp/leigh.pdf) 
+	* Discussion: [Spectacle and Wonder in AR Art](https://sites.google.com/glass-slipper.net/kb-topic-2-cpsc-mixed-reality/home) (Kath, Eric and Hadiya)
+		* Sang-won Leigh. 2015. [Remnance of Form: Interactive Narratives through Unexpected Behaviors of a Shadow](https://doi.org/10.1145/2702613.2725434). CHI EA ’15: 387–390. [pdf](http://www.cpsc.ucalgary.ca/~tonyt/tmp/leigh.pdf)
 
 * Week of Mar 18
 	* Discussion: [AR in Museums](http://michael-hung.ca/museum) (Michael and Eve)
-	* Discussion: [VR/AR in Health and Medical Education](http://arthurvolpato.com/cpsc601.90-topic/) (Arthur, Jacky, Alec)
-	* Readings:
 		* Mafkereseb Kassahun Bekele et al. (2018). [A Survey of Augmented, Virtual, and Mixed Reality for Cultural Heritage](https://doi.org/10.1145/3145534). Journal on Computing and Cultural Heritage 11, 2: 1–36. [pdf Read: pages 16-30](http://www.cpsc.ucalgary.ca/~tonyt/tmp/bekele.pdf)
+	* Discussion: [VR/AR in Health and Medical Education](http://arthurvolpato.com/cpsc601.90-topic/) (Arthur, Jacky, Alec)
 		* Christian Moro et al. (2017). [The effectiveness of virtual and augmented reality in health sciences and medical anatomy](http://dx.doi.org/10.1002/ase.1696). Anatomical Sciences Education 10, 6 (2017), 549–559. [pdf](http://www.cpsc.ucalgary.ca/~tonyt/tmp/moro.pdf)
-
+		
 * Week of Mar 25
 	* Discussion: [MR and Children's Education](http://mr-children-edu.blog/) (Roberta, Muhannad)
-	* Discussion: [Immersive Tech for Oil and Gas](https://aminolroaya.github.io/ImersOilandGas/) (Zahra and Brandon)
-	* Readings:
 		* Lucinda Kerawalla et al. (2006). “Making it real”: exploring the potential of augmented reality for teaching primary school science. Virtual Reality 10 (3-4), 163–174. [pdf](http://www.cpsc.ucalgary.ca/~tonyt/tmp/kerawalla.pdf)
+	* Discussion: [Immersive Tech for Oil and Gas](https://aminolroaya.github.io/ImersOilandGas/) (Zahra and Brandon)
 		* Felipe Carvalho et al. (2014). Virtual Reality techniques for planning the offshore Robotizing. 2014 12th IEEE International Conference on Industrial informatics (INDIN). [pdf](http://www.cpsc.ucalgary.ca/~tonyt/tmp/carvalho.pdf)
 
 * Week of Apr 1
