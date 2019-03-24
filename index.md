@@ -98,7 +98,7 @@ We will use Slack for communication in this course. Please [join](https://join.s
 	* Discussion: [MR and Children's Education](http://mr-children-edu.blog/) (Roberta, Muhannad)
 		* Lucinda Kerawalla et al. (2006). “Making it real”: exploring the potential of augmented reality for teaching primary school science. Virtual Reality 10 (3-4), 163–174. [pdf](http://www.cpsc.ucalgary.ca/~tonyt/tmp/kerawalla.pdf)
 	* Discussion: [Immersive Tech for Oil and Gas](https://aminolroaya.github.io/ImersOilandGas/) (Zahra and Brandon)
-		* Felipe Carvalho et al. (2014). Virtual Reality techniques for planning the offshore Robotizing. 2014 12th IEEE International Conference on Industrial informatics (INDIN). [pdf](http://www.cpsc.ucalgary.ca/~tonyt/tmp/carvalho.pdf)
+		* Roberta C. Ramos Mota et al. (2016). [Exploring Immersive Interfaces for Well Placement Optimization in Reservoir Models](https://doi.org/10.1145/2983310.2985762). In SUI 2016, 121-130. [pdf](http://utouch.cpsc.ucalgary.ca/docs/ExploringImmersiveInterfaces-SUI2016.pdf)
 
 * Week of Apr 1
 	* Discussion: AR Collaborative Learning (Tarishi and Michaela)
