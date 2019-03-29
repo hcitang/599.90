@@ -69,6 +69,8 @@ I don't need the production value of this video to be off the charts; however, r
 
 Be honest with yourselves. It is a moment to feel proud of yourselves, and it is a learning opportunity.
 
+Really take the time to think about this, please. I think if you felt the project went perfectly, then you're either deluding yourselves, or not reflecting on the experience hard enough. ;-)
+
 All members of the team MUST have read the entire document, and each member must sign off on it with a signature (this can be a digital signature if necessary).
 
 **Presentation - 20%.** Develop a 10 minute presentation (PPT) for the final class. You may show your video and/or discuss your prototype/experience. Ensure that you describe "what you would do next" if you had another 6 months. Also, expect 5 minutes of questions after your presentation.
