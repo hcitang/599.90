@@ -101,8 +101,10 @@ We will use Slack for communication in this course. Please [join](https://join.s
 		* Roberta C. Ramos Mota et al. (2016). [Exploring Immersive Interfaces for Well Placement Optimization in Reservoir Models](https://doi.org/10.1145/2983310.2985762). In SUI 2016, 121-130. [pdf](http://utouch.cpsc.ucalgary.ca/docs/ExploringImmersiveInterfaces-SUI2016.pdf)
 
 * Week of Apr 1
-	* Discussion: AR Collaborative Learning (Tarishi and Michaela)
-	* Discussion: AR Gaming (Bruna, Munib)
+	* Discussion: [AR Collaborative Learning](https://sites.google.com/view/ar-education/home) (Tarishi and Michaela)
+		* Phon, D.N. et al. (2014). [Collaborative Augmented Reality in Education: A Review](https://ieeexplore.ieee.org/document/6821833). In 2014 International Conference on Teaching and Learning in Computing and Engineering, 78-83. [pdf](http://www.cpsc.ucalgary.ca/~tonyt/tmp/phon.pdf)
+	* Discussion: [AR Gaming](https://bruna-christina.github.io/AR-gaming/) (Bruna, Munib)
+		* Wetzel, R. et al. (2008). [Guidelines for designing augmented reality games](https://www.researchgate.net/publication/221643987_Guidelines_for_designing_augmented_reality_games). In Proceedings of the 2008 Conference on Future Play: Research, Play, Share(pp. 173-180). [pdf](http://www.cpsc.ucalgary.ca/~tonyt/tmp/wetzel.pdf)
 
 * Week of Apr 8
 	* Discussion: Project - Demos
