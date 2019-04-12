@@ -129,5 +129,5 @@ All components are due by end-of-day Friday.
 	* P0: Jan 18
 	* P1: Feb 1
 	* P2: Mar 1
-	* P3: Presentation-Apr 12; Rest of Final Report-Wed Apr 17 (noon) / Showcase: Apr 15
+	* P3: Presentation-Apr 12; Rest of Final Report-Wed Apr 17 (end of day) / Showcase: Apr 15
 
